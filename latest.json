@@ -1,6 +1,8 @@
 {
-  "version": "1.6.38.12",
-  "url": "https://raw.githubusercontent.com/iwangca/AikaRutenSync-releases/main/AikaRutenSync-Setup-1.6.38.12.exe",
-  "sha256": "7bf6084163c1e564ebf248deef204d15eb6eaf6a651917d59589b68ff9657c9f",
-  "published_at": "2026-10-02T01:07:37Z"
+  "version": "1.6.38.13",
+  "url": "https://raw.githubusercontent.com/iwangca/AikaRutenSync-releases/main/AikaRutenSync-Setup-1.6.38.13.exe",
+  "sha256": "d7d7e23e66e8bec41b79a0e80cda7eba66392e0f1f13ae3e77e20b9a8ba574ef",
+  "portable_url": "https://raw.githubusercontent.com/iwangca/AikaRutenSync-releases/main/AikaRutenSync-Portable-1.6.38.13.zip",
+  "portable_sha256": "eec94921cbb11e04545914c0084d5215b744a7c1e08cf13549865a80724a0698",
+  "published_at": "2026-10-02T01:14:06Z"
 }
